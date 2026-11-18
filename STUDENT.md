@@ -2,7 +2,7 @@
 
 - Họ và tên: Nguyễn Thái Dương
 - MSHV: 2A202603207
-- Lớp (L2 / L3 / khác): L2
+- Lớp (L2 / L3 / khác): L2 (L2A)source .venv/bin/activate
 - Tài khoản GitHub: Duongbotroll
 - Repo bài nộp (URL): https://github.com/Duongbotroll/K5-L23-DAY08-2A202603207-NguyenThaiDuong-AIPrelabel.git
 - Commit chốt bài (hash): <<>>
