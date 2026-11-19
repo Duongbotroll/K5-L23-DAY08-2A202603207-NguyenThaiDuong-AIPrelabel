@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,13,gán tay CVAT Docker (+3 phút sửa vật <20px img_036 img_001)
+batch_review,24,30,duyệt pre-label CVAT Docker
